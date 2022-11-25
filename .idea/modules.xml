@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/f290_acf_navegacao_e_temas.iml" filepath="$PROJECT_DIR$/f290_acf_navegacao_e_temas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/f290_acf_navegacao_e_temas_android.iml" filepath="$PROJECT_DIR$/android/f290_acf_navegacao_e_temas_android.iml" />
+    </modules>
+  </component>
+</project>
